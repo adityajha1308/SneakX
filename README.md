@@ -1,4 +1,4 @@
-# 👟 Sneak X – Sneaker E-Commerce Frontend
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/6370d321-7578-49d8-a574-4a5d3f0f8068" /># 👟 Sneak X – Sneaker E-Commerce Frontend
 
 Sneak X is a fully responsive and beginner-friendly sneaker store interface built using **HTML, CSS, and  JavaScript**. It displays a curated collection of sneakers, sports shoes, and slippers in a clean and minimal layout inspired by real-world e-commerce sites.
 
@@ -35,7 +35,9 @@ This project was built purely for **frontend learning purposes** and does **not 
 
 ## 📸 Preview
 
-![Sneak X Screenshot](images/preview.jpg) <!-- Add a preview screenshot here if available -->
+<img width="930" alt="image" src="https://github.com/user-attachments/assets/39237aee-7fc4-4e84-b0dd-d126769e09d5" />
+
+
 
 ---
 
